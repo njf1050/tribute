@@ -6,7 +6,7 @@ body {
   font-size: 1.5vw;
 
 }
-@media (max-width:720px){
+@media (max-width:820px){
   #bio{
     width: 90%;
     background: crimson;
