@@ -1,10 +1,11 @@
 body {
   margin: 30px 0;
-  background: #fcebeb;
+  background: #eff0eb;
   font-family: "Brygada 1918", serif;
-  /* line-height: 2em; */
   font-size: 1.5vmax;
+  
 }
+
 figure{
   margin: 0;
 }
@@ -13,8 +14,8 @@ figure{
 }
 
 figcaption {
-  font-size: 2vmax;
-  margin-bottom: 1em;
+  font-size: 1.5vmax;
+  margin-bottom: 2em;
 }
 
 #img-div,
@@ -36,6 +37,13 @@ li {
 }
 strong {
   text-decoration: underline;
+}
+
+blockquote{
+  width: 60%;
+  margin: auto;
+  padding:2em 0 0;
+  font-style: italic;
 }
 @media (max-width:800px){
   article{
